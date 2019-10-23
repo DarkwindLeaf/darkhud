@@ -18,6 +18,13 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		//
+		//// CUSTOM COLORS ////
+		//
+		"darkhudBlack"		"5 5 5 255"
+		"darkhudWhite"		"250 250 250 255"
+		"darkhudAmmoReserve"	""
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -3020,6 +3027,11 @@ Scheme
 		//
 		//////////////////// CUSTOM FONTS //////////////////////////////
 		//
+		
+		//
+		//// ESPHIMERE REGULAR ////
+		//
+		
 		"EsphimereRegular12"
 		{
 			"1"
@@ -3116,6 +3128,766 @@ Scheme
 			{
 				"name"		"Esphimere"
 				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereRegular52"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereRegular56"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereRegular60"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereRegular64"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		//
+		//// ESPHIMERE THIN ////
+		//
+		
+		"EsphimereThin12"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin16"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin20"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin24"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin28"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin32"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin36"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin40"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin44"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin48"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin52"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin56"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin60"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin64"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		//
+		//// ESPHIMERE EXTRA LIGHT ////
+		//
+		
+		"EsphimereExtraLight12"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight16"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight20"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight24"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight28"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight32"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight36"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight40"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight44"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight48"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight52"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight56"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight60"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight64"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		//
+		//// ESPHIMERE LIGHT ////
+		//
+		
+		"EsphimereLight12"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight16"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight20"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight24"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight28"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight32"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight36"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight40"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight44"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight48"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight52"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight56"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight60"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight64"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		//
+		//// ESPHIMERE SEMI BOLD ////
+		//
+		
+		"EsphimereSemiBold12"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold16"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold20"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold24"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold28"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold32"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold36"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold40"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold44"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold48"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold52"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold56"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold60"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold64"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"64"
+				"antialias" "1"
+			}
+		}
+		
+		//
+		//// ESPHIMERE LIGHT ////
+		//
+		
+		"EsphimereBold12"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold16"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold20"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"20"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold24"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold28"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"28"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold32"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold36"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold40"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"40"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold44"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"44"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold48"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold52"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"52"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold56"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold60"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"60"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold64"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"64"
 				"antialias" "1"
 			}
 		}
