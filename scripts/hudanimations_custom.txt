@@ -6,7 +6,7 @@ event HudHealthBonusPulse
 
 event HudHealthBonusPulseStop
 {
-	Animate	PlayerStatusHealthValue	FgColor	"White"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.0
 }
 
 //===========================================
@@ -19,7 +19,7 @@ event HudHealthDyingPulse
 
 event HudHealthDyingPulseStop
 {
-	Animate	PlayerStatusHealthValue	FgColor	"White"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.0
 }
 
 //===========================================
@@ -32,6 +32,20 @@ event HudLowAmmoPulse
 
 event HudLowAmmoPulseStop
 {
-	Animate	AmmoInClip	FgColor	"White"	Linear	0.0	0.0
-	Animate	AmmoNoClip	FgColor	"White"	Linear	0.0	0.0
+	Animate	AmmoInClip	FgColor	"darkhudWhite"	Linear	0.0	0.0
+	Animate	AmmoNoClip	FgColor	"darkhudWhite"	Linear	0.0	0.0
+}
+
+//====================================
+
+event HudMedicCharged
+{
+	Animate	ChargeLabel	FgColor	"0 255 255 255"	Linear	0.0	0.0
+	Animate	ChargeMeter	FgColor	"0 255 255 255"	Linear	0.0	0.0
+}
+
+event HudMedicChargedStop
+{
+	Animate	ChargeLabel	FgColor	"darkhudWhite"	Linear	0.0	0.0
+	Animate	ChargeMeter	FgColor	"darkhudWhite"	Linear	0.0	0.0
 }

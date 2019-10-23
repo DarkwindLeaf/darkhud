@@ -23,7 +23,6 @@ Scheme
 		//
 		"darkhudBlack"		"5 5 5 255"
 		"darkhudWhite"		"250 250 250 255"
-		"darkhudAmmoReserve"	""
 		
 		// base colors
 		"Orange"			"178 82 22 255"
