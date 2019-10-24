@@ -76,7 +76,7 @@
 		"enabled" "1"
 		"xpos"	"c-220"
 		"xpos_minmode"	"r85"
-		"ypos"	"c40"
+		"ypos"	"c10"
 		"ypos_minmode"	"r36"
 		"wide"	"600"
 		"tall"	"120"
@@ -239,10 +239,8 @@
 		"fieldName" "DisguiseStatus"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"10"	[$WIN32]
-		"ypos"		"r70"	[$WIN32]
-		"xpos"		"50"	[$X360]
-		"ypos"		"330"	[$X360]
+		"xpos"		"10"
+		"ypos"		"r70"
 		"wide"		"500"
 		"tall"		"200"
 		"TextFont"	"Default"	[$X360]
@@ -310,10 +308,8 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
+		"xpos"		"0"
+		"ypos"		"0"
 		"wide"		"640"
 		"tall"		"480"
 		

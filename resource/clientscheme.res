@@ -21,8 +21,19 @@ Scheme
 		//
 		//// CUSTOM COLORS ////
 		//
+		
+		// regular HUD colors
 		"darkhudBlack"		"5 5 5 255"
 		"darkhudWhite"		"250 250 250 255"
+		
+		// health and ammo colors
+		"darkhudOverheal"	"143 186 63 255"
+		"darkhudLowNum"		"182 62 62 255"
+		"darkhudReserve"	"174 99 201 255"
+		
+		// medic colors
+		"darkhudUber1"		"174 99 201 255"
+		"darkhudUber2"		"118 50 143 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -3031,6 +3042,26 @@ Scheme
 		//// ESPHIMERE REGULAR ////
 		//
 		
+		"EsphimereRegular8"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereRegular10"
+		{
+			"1"
+			{
+				"name"		"Esphimere"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
 		"EsphimereRegular12"
 		{
 			"1"
@@ -3174,6 +3205,26 @@ Scheme
 		//
 		//// ESPHIMERE THIN ////
 		//
+		
+		"EsphimereThin8"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereThin10"
+		{
+			"1"
+			{
+				"name"		"Esphimere Thin"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
 		
 		"EsphimereThin12"
 		{
@@ -3319,6 +3370,26 @@ Scheme
 		//// ESPHIMERE EXTRA LIGHT ////
 		//
 		
+		"EsphimereExtraLight8"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereExtraLight10"
+		{
+			"1"
+			{
+				"name"		"Esphimere Extra Light"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
 		"EsphimereExtraLight12"
 		{
 			"1"
@@ -3462,6 +3533,26 @@ Scheme
 		//
 		//// ESPHIMERE LIGHT ////
 		//
+		
+		"EsphimereLight8"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereLight10"
+		{
+			"1"
+			{
+				"name"		"Esphimere Light"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
 		
 		"EsphimereLight12"
 		{
@@ -3607,6 +3698,26 @@ Scheme
 		//// ESPHIMERE SEMI BOLD ////
 		//
 		
+		"EsphimereSemiBold8"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereSemiBold10"
+		{
+			"1"
+			{
+				"name"		"Esphimere Semi Bold"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
 		"EsphimereSemiBold12"
 		{
 			"1"
@@ -3748,8 +3859,28 @@ Scheme
 		}
 		
 		//
-		//// ESPHIMERE LIGHT ////
+		//// ESPHIMERE BOLD ////
 		//
+		
+		"EsphimereBold8"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		"EsphimereBold10"
+		{
+			"1"
+			{
+				"name"		"Esphimere Bold"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
 		
 		"EsphimereBold12"
 		{

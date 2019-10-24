@@ -1,33 +1,31 @@
-//Health Bonus Pulse
 event HudHealthBonusPulse
 {
-	Animate	PlayerStatusHealthValue	FgColor	"0 255 0 255"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudOverheal"	Linear	0.0	0.1
 }
 
 event HudHealthBonusPulseStop
 {
-	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.1
 }
 
 //===========================================
 
-//Health Dying Pulse
 event HudHealthDyingPulse
 {
-	Animate	PlayerStatusHealthValue	FgColor	"255 0 0 255"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudLowNum"	Linear	0.0	0.1
 }
 
 event HudHealthDyingPulseStop
 {
-	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.0
+	Animate	PlayerStatusHealthValue	FgColor	"darkhudWhite"	Linear	0.0	0.1
 }
 
 //===========================================
 
 event HudLowAmmoPulse
 {
-	Animate	AmmoInClip	FgColor	"255 0 0 255"	Linear	0.0	0.0
-	Animate	AmmoNoClip	FgColor	"255 0 0 255"	Linear	0.0	0.0
+	Animate	AmmoInClip	FgColor	"darkhudLowNum"	Linear	0.0	0.0
+	Animate	AmmoNoClip	FgColor	"darkhudLowNum"	Linear	0.0	0.0
 }
 
 event HudLowAmmoPulseStop
@@ -36,16 +34,24 @@ event HudLowAmmoPulseStop
 	Animate	AmmoNoClip	FgColor	"darkhudWhite"	Linear	0.0	0.0
 }
 
-//====================================
+//===========================================
 
-event HudMedicCharged
+event HudSpyDisguiseChanged
 {
-	Animate	ChargeLabel	FgColor	"0 255 255 255"	Linear	0.0	0.0
-	Animate	ChargeMeter	FgColor	"0 255 255 255"	Linear	0.0	0.0
+	
 }
 
-event HudMedicChargedStop
+event HudSpyDisguiseHide
 {
-	Animate	ChargeLabel	FgColor	"darkhudWhite"	Linear	0.0	0.0
-	Animate	ChargeMeter	FgColor	"darkhudWhite"	Linear	0.0	0.0
+	
+}
+
+event HudSpyDisguiseFadeIn
+{
+	
+}
+
+event HudSpyDisguiseFadeOut
+{
+	
 }
